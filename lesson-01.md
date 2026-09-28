@@ -12,3 +12,6 @@ git init → 剖析 .git → 配置身份 → 第一次完整 commit
 ## 本机环境
 - git 2.54.0.windows.1
 - 仓库创建于 GIt learning 文件夹，初始分支 main
+
+## 追加陷阱实验区
+这行是【第一次】写入的内容。
