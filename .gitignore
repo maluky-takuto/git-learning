@@ -1,0 +1,10 @@
+# IDE / 工具产生的本地文件
+.idea/
+.loomy-attachments/
+
+# 日志与临时文件
+*.log
+
+# 系统垃圾
+Thumbs.db
+Desktop.ini
