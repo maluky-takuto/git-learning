@@ -11,3 +11,5 @@
 | 冲突 | Conflict | 同一处被两边改得不一致，需人工裁决 |
 | 裸仓库 | Bare Repository | 无工作区的中转站（总书库） |
 | 远程 | Remote | 登记在案的异地仓库（如 origin） |
+| 拉取 | Pull | fetch + merge：下载远程更新并合并（git pull） |
+| 推送 | Push | 把本地分支的快照上传到远程（git push） |
